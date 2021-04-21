@@ -14,8 +14,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Websockets](https://img.shields.io/badge/-Websockets-333333?style=flat&logo=socket.io)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Vue.Js](https://img.shields.io/badge/-VueJs-333333?style=flat&logo=vue.js)
   ![Vuetify](https://img.shields.io/badge/-Vuetify-333333?style=flat&logo=vuetify&logoColor=addbfd)
 - 🛢 &nbsp;
@@ -26,8 +25,8 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<h3>🤝 Contato</h3>
 
+<h3>🤝 Contato</h3>
 <p style="display: flex;">
 <a href="mailto:everton@andrade.mat.br"><img src="https://img.shields.io/badge/-everton@adrade.mat.br-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
