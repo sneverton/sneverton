@@ -17,6 +17,7 @@
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Vue.Js](https://img.shields.io/badge/-VueJs-333333?style=flat&logo=vue.js)
   ![Vuetify](https://img.shields.io/badge/-Vuetify-333333?style=flat&logo=vuetify&logoColor=addbfd)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
