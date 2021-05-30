@@ -30,4 +30,5 @@
 <h3>🤝 Contato</h3>
 <p style="display: flex;">
 <a href="mailto:everton@andrade.mat.br"><img src="https://img.shields.io/badge/-everton@adrade.mat.br-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sneverton/"><img src="https://img.shields.io/badge/-Everton%Andrade-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
