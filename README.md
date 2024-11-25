@@ -1,7 +1,4 @@
 <h3>👨‍💻 Everton Andrade </h3>
-
-
- :rocket:  &nbsp; Atualmente estou trabalhando na **MRX Web Sites**.
  
  
 <h3>🛠️ Tecnologias</h3>
